@@ -1,1 +1,1 @@
-# Expense-Tracker
+The Expense Tracker is a simple web application that helps users track their daily expenses efficiently. Built with HTML, CSS, and JavaScript, this app allows users to add, delete, and view their expenses in a user-friendly interface.
